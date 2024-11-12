@@ -1,9 +1,11 @@
 body {
     color:white;
     background:pink;
+    margin: 0px
+    ;
 }
 
 header {
 border-bottom: solid 1px rgb(229, 138, 200);
-
+border-bottom: 20px;
 }
